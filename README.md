@@ -6,7 +6,7 @@ A production-ready Retrieval-Augmented Generation (RAG) application that lets yo
 
 ## 🚀 Live Demo
 
-> [Add your Streamlit Cloud link here after deploying]
+[👉 Open the app](https://pdf-chat-gemini-f5wvqbq8zubmvhwceqknbw.streamlit.app/)
 
 ---
 
@@ -83,7 +83,7 @@ Return grounded answer
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-chat-gemini.git
+git clone https://github.com/omarameen2005/pdf-chat-gemini.git
 cd pdf-chat-gemini
 ```
 
